@@ -7,9 +7,9 @@
         "Id",
         "Bot"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/ID-Bot",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "website": "https://t.me/smile_killer_010",
+    "repository": "https://github.com/SMILE-KILLER10/user-info",
+    "success_url": "https//t.me/NAZRIYAOFFTOPIC",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
