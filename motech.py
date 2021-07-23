@@ -55,9 +55,9 @@ CLICK /INFO GET YOUR TELEGRAM INFO </b>
 # Button Controler 
 MT_START = InlineKeyboardMarkup(
      [[
-        InlineKeyboardButton("🗣️Group", url=f"t.me/mo_tech_group"),
-        InlineKeyboardButton("📑Bot List", url=f"t.me/mo_tech_yt"),
-        InlineKeyboardButton("✳️Source", url=f"https://github.com/PR0FESS0R-99/ID-Bot")
+        InlineKeyboardButton("Group", url=f"t.me/NAZRIYAOFFTOPIC"),
+        InlineKeyboardButton("UPDATES", url=f"t.me/NAZRIYAONTOPIC"),
+        InlineKeyboardButton("MASTER", url=f"t.me/SMILE_KILLER_010")
      ]]
    )
 
@@ -99,7 +99,7 @@ async def info(motech, update):
 
 <b>🔗 Profile Link :</b> {update.from_user.mention}
 
-<b>  © @Mo_Tech_YT</b>
+<b>  © @NAZRIYAOFFTOPIC.</b>
 """ 
     reply_markup = MT_START 
     await update.reply_text(        
